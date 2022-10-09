@@ -17,3 +17,11 @@ My goal is to learn the Go language better and contribute to an Open Souce progr
 
 ---
 
+## Day 1:
+09-Oct-2022
+- Hands on with Go | https://exercism.org/tracks/go/exercises/welcome-to-tech-palace
+
+
+---
+Thanks to : 
+- For the idea to blog & format | https://aswinbarath.github.io/100-days-of-code-challenge/
