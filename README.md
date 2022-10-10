@@ -16,6 +16,10 @@ My goal is to learn the Go language better and contribute to an Open Souce progr
 - [ ] [Learn more about K8S Operators](#)
 
 ---
+## Day 1:
+10-Oct-2022
+- Hands on with Go | https://exercism.org/tracks/go/exercises/hamming
+- Learning about KubeBuilder | TGI Kubernetes 083
 
 ## Day 1:
 09-Oct-2022
