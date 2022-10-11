@@ -16,7 +16,12 @@ My goal is to learn the Go language better and contribute to an Open Souce progr
 - [ ] [Learn more about K8S Operators](#)
 
 ---
-## Day 1:
+## Day 3:
+11-Oct-2022
+- Hands on with Go | https://exercism.org/tracks/go/exercises/grains
+- Participated in 3 Clash of Code in CodinGame : Ranked 2/8 (Shortest code challenge), 4/6 (# of diagonals in a polygon) , 7/8 (Shortest code challenge)
+
+## Day 2:
 10-Oct-2022
 - Hands on with Go | https://exercism.org/tracks/go/exercises/hamming
 - Learning about KubeBuilder | TGI Kubernetes 083
