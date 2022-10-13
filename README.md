@@ -16,6 +16,11 @@ My goal is to learn the Go language better and contribute to an Open Souce progr
 - [ ] [Learn more about K8S Operators](#)
 
 ---
+
+## Day 5:
+13-Oct-2022
+- Hands on with Go | https://exercism.org/tracks/go/exercises/isogram/ & https://exercism.org/tracks/go/exercises/difference-of-squares & https://exercism.org/tracks/go/exercises/space-age
+
 ## Day 4:
 12-Oct-2022
 - Hands on with Go | https://exercism.org/tracks/go/exercises/raindrops/ & https://exercism.org/tracks/go/exercises/scrabble-score
