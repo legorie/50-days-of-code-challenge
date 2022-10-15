@@ -17,6 +17,15 @@ My goal is to learn the Go language better and contribute to an Open Souce progr
 
 ---
 
+## Day 7:
+15-Oct-2022
+- Hands on with Go | https://exercism.org/tracks/go/exercises/anagram
+- Reading the Chapter 18 of Kubernetes IN ACTION by Marko Lukša. This chapter has a cleared a long time confusion of mine on Group, Version & Kind
+
+## Day 6:
+14-Oct-2022
+- Hands on with Go | https://exercism.org/tracks/go/exercises/etl & https://exercism.org/tracks/go/exercises/luhn
+
 ## Day 5:
 13-Oct-2022
 - Hands on with Go | https://exercism.org/tracks/go/exercises/isogram/ & https://exercism.org/tracks/go/exercises/difference-of-squares & https://exercism.org/tracks/go/exercises/space-age
