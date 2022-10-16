@@ -17,6 +17,10 @@ My goal is to learn the Go language better and contribute to an Open Souce progr
 
 ---
 
+## Day 8:
+16-Oct-2022
+- Hands on with Go | https://exercism.org/tracks/go/exercises/nucleotide-count
+
 ## Day 7:
 15-Oct-2022
 - Hands on with Go | https://exercism.org/tracks/go/exercises/anagram
