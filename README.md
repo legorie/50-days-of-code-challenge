@@ -17,6 +17,10 @@ My goal is to learn the Go language better and contribute to an Open Souce progr
 
 ---
 
+## Day 10:
+18-Oct-2022
+- Hands on with Go | https://exercism.org/tracks/go/exercises/pangram & https://exercism.org/tracks/go/exercises/proverb
+
 ## Day 9:
 17-Oct-2022
 - Hands on with Go | https://exercism.org/tracks/go/exercises/largest-series-product
