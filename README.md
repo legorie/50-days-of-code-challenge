@@ -17,6 +17,11 @@ My goal is to learn the Go language better and contribute to an Open Souce progr
 
 ---
 
+## Day 11:
+19-Oct-2022
+- Hands on with Go | https://exercism.org/tracks/go/exercises/atbash-cipher
+- Completed the Chapter 18 of the Kubernetes in Action book
+
 ## Day 10:
 18-Oct-2022
 - Hands on with Go | https://exercism.org/tracks/go/exercises/pangram & https://exercism.org/tracks/go/exercises/proverb
