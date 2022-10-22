@@ -17,6 +17,15 @@ My goal is to learn the Go language better and contribute to an Open Souce progr
 
 ---
 
+## Day 13:
+21-Oct-2022
+- Hands on with Go | https://exercism.org/tracks/go/exercises/reverse-string
+
+## Day 12:
+20-Oct-2022
+- Hands on with Go | https://exercism.org/tracks/go/exercises/roman-numerals
+- Had a good experience with my favorite OpenSouce project KubeArmor. I saw an issue which I had the knowledge to help, Issue [#942](https://github.com/kubearmor/KubeArmor/issues/942) - Helm installation not working. I quickly downloaded the repo, installed the Helm chart, replicated the issue. Luckily, was able to figure it out to (it was a good-first-issue), fixed it by comparing it with the correct REPO URLs in other deployment methods and was ready to submit my request to pick the issue. Then, I noticed that another contributor had already submitted the fix via another PR. My first work trying to contribute went in vain but I learn that I could help and contribute & more importantly my solution match with that of the contributor. I felt good with my first try; miles to go before I could really add value to the project. 
+
 ## Day 11:
 19-Oct-2022
 - Hands on with Go | https://exercism.org/tracks/go/exercises/atbash-cipher
