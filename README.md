@@ -17,6 +17,11 @@ My goal is to learn the Go language better and contribute to an Open Souce progr
 
 ---
 
+## Day 15:
+24-Oct-2022
+- Hands on with Go | https://exercism.org/tracks/go/exercises/gigasecond
+- Read about Red Hat's UBI images. My fav project has been looking to get its image to be RH certified. I read the RH UBI eBook to learn more about RH's presence in the containerization space. Even having worked on the OpenShift environment for the past 2 years, this book has a lots of information.
+
 ## Day 14:
 22-Oct-2022
 - Hands on with Go | https://exercism.org/tracks/go/exercises/isbn-verifier
