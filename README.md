@@ -17,6 +17,10 @@ My goal is to learn the Go language better and contribute to an Open Souce progr
 
 ---
 
+## Day 16:
+25-Oct-2022
+- Hands on with Go | https://exercism.org/tracks/go/exercises/triangle
+
 ## Day 15:
 24-Oct-2022
 - Hands on with Go | https://exercism.org/tracks/go/exercises/gigasecond
