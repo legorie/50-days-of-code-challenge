@@ -17,6 +17,10 @@ My goal is to learn the Go language better and contribute to an Open Souce progr
 
 ---
 
+## Day 18:
+28-Oct-2022
+- Hands on with Go | https://exercism.org/tracks/go/exercises/word-count
+
 ## Day 17:
 26-Oct-2022
 - Hands on with Go | https://exercism.org/tracks/go/exercises/perfect-numbers
