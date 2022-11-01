@@ -17,6 +17,15 @@ My goal is to learn the Go language better and contribute to an Open Souce progr
 
 ---
 
+## Day 20:
+01-Nov-2022
+- Hands on with Go | https://exercism.org/tracks/go/exercises/sieve
+
+## Day 19:
+31-Oct-2022
+- Found an issue to work on and provided my first take on the issue [#199](https://github.com/kubearmor/kubearmor-client/issues/199). I'm hoping to add value by fixing this requirement
+
+
 ## Day 18:
 28-Oct-2022
 - Hands on with Go | https://exercism.org/tracks/go/exercises/word-count
