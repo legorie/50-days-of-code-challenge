@@ -17,6 +17,10 @@ My goal is to learn the Go language better and contribute to an Open Souce progr
 
 ---
 
+## Day 22:
+03-Nov-2022
+- Hands on with Go | https://exercism.org/tracks/go/exercises/protein-translation
+
 ## Day 20:
 01-Nov-2022
 - Hands on with Go | https://exercism.org/tracks/go/exercises/sieve
