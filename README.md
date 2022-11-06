@@ -17,6 +17,14 @@ My goal is to learn the Go language better and contribute to an Open Souce progr
 
 ---
 
+## Day 25:
+06-Nov-2022
+- Hands on with Go | https://exercism.org/tracks/go/exercises/wordy
+
+## Day 24:
+05-Nov-2022
+- Started DevSecOps training in KodeKloud
+
 ## Day 23:
 03-Nov-2022
 - Hands on with Go | https://exercism.org/tracks/go/exercises/armstrong-numbers
