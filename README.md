@@ -17,6 +17,14 @@ My goal is to learn the Go language better and contribute to an Open Souce progr
 
 ---
 
+## Day 27:
+09-Nov-2022
+- Started reviewing the code for kubearmor-client to add the Host Visibility level
+
+## Day 26:
+08-Nov-2022
+- Hands on with Go | https://exercism.org/tracks/go/exercises/sum-of-multiples
+
 ## Day 25:
 06-Nov-2022
 - Hands on with Go | https://exercism.org/tracks/go/exercises/wordy
