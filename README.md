@@ -17,6 +17,10 @@ My goal is to learn the Go language better and contribute to an Open Souce progr
 
 ---
 
+## Day 28:
+11-Nov-2022
+- Hands on with Go | https://exercism.org/tracks/go/exercises/pascals-triangle
+
 ## Day 27:
 09-Nov-2022
 - Started reviewing the code for kubearmor-client to add the Host Visibility level
