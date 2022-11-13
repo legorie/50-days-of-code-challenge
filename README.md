@@ -17,6 +17,15 @@ My goal is to learn the Go language better and contribute to an Open Souce progr
 
 ---
 
+## Day 30:
+13-Nov-2022
+- Hands on with Go | https://exercism.org/tracks/go/exercises/leap
+
+
+## Day 29:
+12-Nov-2022
+- Analysis on the kubearmor client Go code, identified a change in the core Kubearmor code, requested for help from the authors
+
 ## Day 28:
 11-Nov-2022
 - Hands on with Go | https://exercism.org/tracks/go/exercises/pascals-triangle
