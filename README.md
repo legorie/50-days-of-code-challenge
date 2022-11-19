@@ -17,10 +17,21 @@ My goal is to learn the Go language better and contribute to an Open Souce progr
 
 ---
 
+## Day 33:
+18-Nov-2022
+- Spend a whole day setting up again the DEV environment for KubeArmor. Trying kubeadm and minikube did not work on my Ubuntu VMs running on Windows. The Vagrant setup metioned in the developer guide needs an Ubuntu host environment which I don't have. Atlast the setup worked well in k3s. The number of tools available to spin up a K8S environment to learn is pretty impressive
+
+## Day 32:
+17-Nov-2022
+- DevOps training : Practised the Talisman tool which can detect sensitive information in the code on pre-commit or pre-push
+
+## Day 31:
+16-Nov-2022
+- Hands on with Go | https://exercism.org/tracks/go/exercises/phone-number
+
 ## Day 30:
 13-Nov-2022
 - Hands on with Go | https://exercism.org/tracks/go/exercises/leap
-
 
 ## Day 29:
 12-Nov-2022
