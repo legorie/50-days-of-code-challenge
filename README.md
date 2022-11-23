@@ -16,6 +16,10 @@ My goal is to learn the Go language better and contribute to an Open Souce progr
 - [ ] [Learn more about K8S Operators](#)
 
 ---
+## Day 35:
+23-Nov-2022
+- Hands on with Go | https://exercism.org/tracks/go/exercises/pythagorean-triplet
+
 ## Day 34:
 21-Nov-2022
 - Hands on with Go | https://exercism.org/tracks/go/exercises/pythagorean-triplet
