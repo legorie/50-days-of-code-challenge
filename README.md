@@ -16,6 +16,10 @@ My goal is to learn the Go language better and contribute to an Open Souce progr
 - [ ] [Learn more about K8S Operators](#)
 
 ---
+## Day 37:
+29-Nov-2022
+- Hands on with Go | https://exercism.org/tracks/go/exercises/pythagorean-triplet
+
 ## Day 36:
 26-Nov-2022
 - Discovered a superb GitHub repo for SRE preparation, lovin it : https://github.com/mxssl/sre-interview-prep-guide
