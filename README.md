@@ -16,6 +16,10 @@ My goal is to learn the Go language better and contribute to an Open Souce progr
 - [ ] [Learn more about K8S Operators](#)
 
 ---
+## Day 38:
+30-Nov-2022
+- Discovered a wonderful SaaS site for Linux debugging https://sadservers.com ; great effort by the Fernando Duran, I'm lovin it. Solved the Easy level challenges and learnt a few tricks
+
 ## Day 37:
 29-Nov-2022
 - Hands on with Go | https://exercism.org/tracks/go/exercises/pythagorean-triplet
