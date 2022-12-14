@@ -16,6 +16,11 @@ My goal is to learn the Go language better and contribute to an Open Souce progr
 - [ ] [Learn more about K8S Operators](#)
 
 ---
+## Day 40:
+13-Dec-2022
+- Hands on with Go | https://exercism.org/tracks/go/exercises/pythagorean-triplet
+- Hands on with KubeBuilder - working on the Useless Machine contoller
+
 ## Day 39:
 03-Dec-2022
 - Got a good understanding of CRDs following the self paced training here : https://container.training/kube-selfpaced.yml.html. A great thanks to Jérôme Petazzoni on his work in educating the K8S / Cloud Native community. I remember watching his presentation on Kubernetes Internals (https://www.youtube.com/watch?v=3KtEAa7_duA&t=731s) which gave me the confidence and the understanding to take the CKA exam, which 8 months of training and kubectl mastery could not give me. During my university days (days before youtube and widespread internet), I was on a goose chase to find out how the computer booted from the power button to the login screen. After months and months of digging books and people's knowledge, I got a grasp of the Windows boot process. I had the same level of satisfaction after watching (trying to understand) Jérôme K8S internal presentation.
