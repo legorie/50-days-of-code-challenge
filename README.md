@@ -16,6 +16,11 @@ My goal is to learn the Go language better and contribute to an Open Souce progr
 - [ ] [Learn more about K8S Operators](#)
 
 ---
+## Day 41:
+20-Dec-2022
+- Hands on with Go | https://exercism.org/tracks/go/exercises/queen-attack
+- Hands on with Controllers - ekspose by Vivek Singh
+
 ## Day 40:
 13-Dec-2022
 - Hands on with Go | https://exercism.org/tracks/go/exercises/pythagorean-triplet
