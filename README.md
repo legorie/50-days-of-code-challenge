@@ -20,6 +20,7 @@ My goal is to learn the Go language better and contribute to an Open Souce progr
 20-Dec-2022
 - Hands on with Go | https://exercism.org/tracks/go/exercises/queen-attack
 - Hands on with Controllers - ekspose by Vivek Singh
+- Watched the client go videos from the Kubernetes Pune chapter and KubeCon2017. Wanted to modify the ekspose controller to do check the node image size controller showed by Alena (https://www.youtube.com/watch?v=QIMz4V9WxVc). I understood my shortcomings on the Go langugage, my lack of good understanding of structs and interfaces sent me on a wild goose chase. Now, it is time to get some basics right!
 
 ## Day 40:
 13-Dec-2022
