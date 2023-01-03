@@ -16,11 +16,15 @@ My goal is to learn the Go language better and contribute to an Open Souce progr
 - [ ] [Learn more about K8S Operators](#)
 
 ---
+## Day 43:
+03-Jan-2023
+- Usually, to complete a day's training, I would want to see the output from a program. However, completing this Go Tutorial (https://www.youtube.com/watch?v=YS4e4q9oBaU) over a couple of days, gives me a sense of accomplishment and a great appreciation for the GoLang. A few concepts were a cakewalk and the rest needs more practice - Interfaces, Routines and Channels. The learning of slices, defer/panic/recover keywords, pointers were an easy refresher.Thanks to Michael Van Sickle @vansimke for the wonderful tutorial 👍
+
 ## Day 42:
 23-Dec-2022
 - Hurray, completed my first controller which warns when the image size in a node changes (https://github.com/legorie/nodesize)
 - Had a few key learnings:
-- (1) Good comfort with GoLang will help understand the existing code. The controller code (examples) need an intermediate understanding of the language - maps, structs, interfaces etc. Still miles to go!
+- (1) Good comfort with GoLang will help understand the existing code. The controller code (examples) need an intermediates understanding of the language - maps, structs, interfaces etc. Still miles to go!
 - (2) To understand the datatypes passed, the client-go documentation and the kubectl commands (-o yaml) helped a lot. Next step is understand better the different libraries used in the operator programs
 
 ![image](https://user-images.githubusercontent.com/1323423/209407105-7580acf7-6797-4743-828b-a22e2881abbf.png)
