@@ -16,6 +16,15 @@ My goal is to learn the Go language better and contribute to an Open Souce progr
 - [ ] [Learn more about K8S Operators](#)
 
 ---
+## Day 44:
+05-Jan-2023
+- Created a simple program using K8S client-go library to list the pods in a cluster. Thanks Aditya Joshi (https://www.youtube.com/watch?v=tQvpZSWYt8E) for the simple program to iron out the basics
+- Now that the program runs fine (https://github.com/legorie/k8s-client-go : first commit), I'm closing my day with more questions that I started to resolve
+- I'm set out to understand & answer the following questions :  
+  ❓ Q1: Why do we need the config variable to create the clientset, why not directly from the kubeconfig path ?  
+	❓ Q2: What is the context package - congext.Background() and the v1.ListOptions magic while creating the clientset ?  
+	❓ Q3: The clienset has access to the CoreV1 group (GVK) only and the other groups, the custom group which we would be creating using CRDs ?  
+
 ## Day 43:
 03-Jan-2023
 - Usually, to complete a day's training, I would want to see the output from a program. However, completing this Go Tutorial (https://www.youtube.com/watch?v=YS4e4q9oBaU) over a couple of days, gives me a sense of accomplishment and a great appreciation for the GoLang. A few concepts were a cakewalk and the rest needs more practice - Interfaces, Routines and Channels. The learning of slices, defer/panic/recover keywords, pointers were an easy refresher.Thanks to Michael Van Sickle @vansimke for the wonderful tutorial 👍
