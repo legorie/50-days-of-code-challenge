@@ -16,6 +16,11 @@ My goal is to learn the Go language better and contribute to an Open Souce progr
 - [ ] [Learn more about K8S Operators](#)
 
 ---
+## Day 45:
+14-Jan-2023
+- To keep the ball rolling on Golang, followed along and wrote a simple API application with the mux package.
+- https://github.com/legorie/go-learn-projects/tree/main/go-movies-crud
+
 ## Day 44:
 05-Jan-2023
 - Created a simple program using K8S client-go library to list the pods in a cluster. Thanks Aditya Joshi (https://www.youtube.com/watch?v=tQvpZSWYt8E) for the simple program to iron out the basics
