@@ -16,6 +16,16 @@ My goal is to learn the Go language better and contribute to an Open Souce progr
 - [ ] [Learn more about K8S Operators](#)
 
 ---
+## Day 46:
+12-Feb-2023
+- An important event in my Opensource journey, I was able to submit 2 PRs to the Kubearmor project. The PRs are still in draft state, but I had lots of learnings in writing the enhancement feature of the kubearmor-client code and the base kubearmor code.
+- Running the code in my K3S environment and testing the karmor client code on my Ubuntu VM was a challenging setup which I passed more than 3 days figuring out. All in all, I can see how enriching the expreience was
+- https://github.com/kubearmor/kubearmor-client/pull/254
+- https://github.com/kubearmor/KubeArmor/pull/1086
+
+![image](https://user-images.githubusercontent.com/1323423/218866375-1579eeff-99a1-493b-b408-4397dbb5977a.png)
+
+
 ## Day 45:
 14-Jan-2023
 - To keep the ball rolling on Golang, followed along and wrote a simple API application with the mux package.
