@@ -16,6 +16,18 @@ My goal is to learn the Go language better and contribute to an Open Souce progr
 - [ ] [Learn more about K8S Operators](#)
 
 ---
+## Day 47:
+25-Feb-2023
+- After a suggestion from a mentoring session, I started to work on a 3 tier application written in Golang. Though the application is very simple, the different learnings on local development, using environment variables/files and implementing them on a K8S cluster was enormous. Glad I embarked on this journey :  
+https://github.com/legorie/k8s-3tier-application  
+For now, the sample app & deployment has the following parts :  
+Step 1: Web, API and DB running on localhost  
+Step 2: Dockerize the web and api applications on localhost  
+Step 3: Running the application on our local Kubernetes cluster  
+Step 4: Deploy in the Kubernetes cluster using a declarative YAML  
+Step 5: Use Ingress controller to manage the traffic  
+Step 6: Converting the deployment to a Helm chart  
+
 ## Day 46:
 12-Feb-2023
 - An important event in my Opensource journey, I was able to submit 2 PRs to the Kubearmor project. The PRs are still in draft state, but I had lots of learnings in writing the enhancement feature of the kubearmor-client code and the base kubearmor code.
